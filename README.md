@@ -1,2 +1,2 @@
 # SimpleLRUCacheInGO
-A basic LRU cache written in go using doubly linked lists and maps as Hash tables
+A basic LRU cache written in GO using doubly linked lists and maps as Hash tables
